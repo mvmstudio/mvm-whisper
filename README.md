@@ -4,6 +4,8 @@
 
 MVM-Whisper — это консольная утилита для транскрибации аудиофайлов с использованием OpenAI Whisper API. Утилита позволяет преобразовывать речь из аудиофайлов в текст с помощью мощной модели распознавания речи от OpenAI.
 
+![MVM-Whisper]([http://url/to/img.png](https://downloader.disk.yandex.ru/preview/2c7ba24ab839597c4cc9b78f7611b8b3a9dfc78c1feecc609a2937abf026b391/67d2d35d/NdZ-KwIz1NL3PRDYW2Qub4BY0ZtOnrUBI624N4vp4KhW2PdDakY6jVvSsi3povXI_cpcyp82ZyzMjQPAFhhlEA%3D%3D?uid=0&filename=2025-03-13_08-43-34.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048))
+
 ### Основные возможности:
 
 - Транскрибация аудиофайлов различных форматов (mp3, wav, m4a, mp4)

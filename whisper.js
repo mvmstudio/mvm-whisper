@@ -34,7 +34,7 @@ const SCRIPT_DIR = path.dirname(new URL(import.meta.url).pathname);
 // Константы для путей относительно директории скрипта
 const CHUNK_SIZE = 19 * 1024 * 1024; // 19MB (оставляем запас)
 const CHUNKS_DIR = path.join(SCRIPT_DIR, "chunks");
-const RESULTS_DIR = path.join(SCRIPT_DIR, "result");
+const RESULTS_DIR = path.join(process.env.HOME || process.env.USERPROFILE, "Whisper");
 
 let openai; // Будет инициализирован после получения API ключа
 
